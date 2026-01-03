@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://avatars.githubusercontent.com/u/1284937?s=280&v=4" width="200" alt="Spyder IDE application logo"><br>
- <a href="https://app-quick-app.github.io/.github/SpyderIDE">
+ <a href="https://gnomik-gomik-apps.github.io/.github/SpyderIDE">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Spyder IDE macOS">
  </a><br><br>
  <div align="center">
